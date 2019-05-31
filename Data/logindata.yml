@@ -1,31 +1,31 @@
 login_001:
-  account: "13488834010"
-  passwd: "159357li"
+  account: "18757874860"
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 login_002:
-  account: " 13488834010"
-  passwd: "159357li"
+  account: " 18757874860"
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 login_003:
-  account: "13488834010 "
-  passwd: "159357li"
+  account: "18757874860 "
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 login_005:
-  account: "mlili"
-  passwd: "159357li"
+  account: "audiA4L"
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 
 login_006:
-  account: " mlili"
-  passwd: "159357li"
+  account: " audiA4L"
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 login_007:
-  account: "mlili "
-  passwd: "159357li"
+  account: "audiA4L "
+  passwd: "longzhu2019"
   expect_data: "我的优惠券"
 login_009:
   account: "18800001111"
-  passwd: "159357li"
+  passwd: "longzhu2019"
   toast: "不存在"
   expect_data: "此用户不存在"
 login_010:
